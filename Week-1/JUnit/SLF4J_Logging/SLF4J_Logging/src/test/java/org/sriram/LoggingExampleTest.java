@@ -1,0 +1,13 @@
+package org.sriram;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+public class LoggingExampleTest {
+
+    @Test
+    public void testSomething() {
+        assertEquals(2, 1 + 1);
+    }
+}
