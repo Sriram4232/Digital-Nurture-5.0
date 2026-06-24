@@ -1,6 +1,6 @@
 CREATE TABLE Accounts (
     acc_id NUMBER PRIMARY KEY,
-    AccountHolderName VARCHAR2(100),
+    acc_holder VARCHAR2(100),
     acc_type VARCHAR2(20),
     balance NUMBER(15, 2)
 );
