@@ -1,0 +1,12 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.factorypath
+.LCKpom.xml~
+*~
